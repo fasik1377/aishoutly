@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "vercel-build": "rm -rf .next && next build"
+    "vercel-build": "next build"
   },
   "dependencies": {
     "@fullcalendar/core": "^6.1.19",
